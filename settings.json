@@ -8,8 +8,8 @@
   "server": {
     "ip": "Nexvoid2.aternos.me",
     "port": 37417,
-    "version": "26.1.2",
-    "try-creative": true
+    "version": "1.21.11",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "digidy",
+        "welcome to Terra",
+        "i am just a normal persom lol"
       ]
     },
     "chat-log": true,
